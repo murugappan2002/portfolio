@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(230, 184, 176);
+  text-align: center;
+  }
+  ol,ul{
+    text-align: center;
+  }
+
+  h1 {
+    color: rgb(0, 255, 119);
+  }
+  p {
+    color: rgb(144, 0, 255);
+  }
+  header{
+    text-align: center;
+  }
+.ed {
+  border: 1px solid red; 
+  padding-right: 50;
+  padding-left: 10;
+}
+  
+  table{
+    justify-content: center;
+  }
